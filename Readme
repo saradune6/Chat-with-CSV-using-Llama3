@@ -30,7 +30,7 @@ This project allows you to **upload a CSV file and chat with it**, making data a
 
 ### 🔹 1. Clone the Repository  
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/saradune6/Chat-with-CSV-using-Llama3.git
 cd your-repo-name
 ```
 

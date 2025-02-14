@@ -46,7 +46,7 @@ venv\Scripts\activate  # Windows
 pip install -r requirements.txt
 ```
 
-### 🔹 4. Set Up API Keys  
+### 🔹 4. Set Up API Keys  if You want to do same with google models
 Create a `.env` file in the project directory and add your **Google API Key**:  
 ```
 GOOGLE_API_KEY=your_google_api_key_here

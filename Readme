@@ -1,0 +1,103 @@
+Here’s a **README.md** for your GitHub repository:  
+
+---
+
+## 🚀 Chat with CSV Using LLaMA 3 🦙📊  
+
+### 📢 Interact with Your Data Like Never Before!  
+This project allows you to **upload a CSV file and chat with it**, making data analysis more intuitive and efficient. Instead of manually searching through spreadsheets, simply **ask questions and get instant AI-generated responses**!  
+
+---
+
+## ✨ Features  
+✅ **Chat with your CSV** – Get insights, summaries, and answers in natural language  
+✅ **LLaMA 3 Model** – Leverages Meta’s **LLaMA 3 LLM** for smart, context-aware responses  
+✅ **LLaMA Embeddings** – Converts text into vectors for **fast and accurate data retrieval**  
+✅ **FAISS Vector Store** – Efficient **semantic search** for querying large datasets  
+✅ **Built with Streamlit** – Simple and interactive UI for smooth user experience  
+✅ **Fully Open Source** – Modify, contribute, and enhance the project  
+
+---
+
+## 🛠️ Tech Stack  
+- **LLaMA 3** – Advanced **Large Language Model (LLM)** for text generation  
+- **LLaMA Embeddings** – AI-powered **text representation** for vector search  
+- **LangChain** – Framework for **retrieving and processing structured data**  
+- **FAISS (Facebook AI Similarity Search)** – Fast **vector-based search library**  
+- **Streamlit** – Python-based framework for **building interactive UIs**  
+- **Python** – The language powering the backend  
+
+---
+
+## 🚀 Setup & Installation  
+
+### 🔹 1. Clone the Repository  
+```bash
+git clone https://github.com/yourusername/your-repo-name.git
+cd your-repo-name
+```
+
+### 🔹 2. Create a Virtual Environment (Optional but Recommended)  
+```bash
+python -m venv venv
+source venv/bin/activate  # MacOS/Linux
+venv\Scripts\activate  # Windows
+```
+
+### 🔹 3. Install Dependencies  
+```bash
+pip install -r requirements.txt
+```
+
+### 🔹 4. Set Up API Keys  
+Create a `.env` file in the project directory and add your **Google API Key**:  
+```
+GOOGLE_API_KEY=your_google_api_key_here
+```
+
+### 🔹 5. Run the Application  
+```bash
+streamlit run app.py
+```
+Now, open your **browser at `http://localhost:8501/`** and start chatting with your CSV! 🚀  
+
+---
+
+## 📸 Screenshots  
+| Upload CSV | Chat Interface |  
+|------------|--------------|  
+| ![Upload](link-to-image) | ![Chat](link-to-image) |  
+
+---
+
+## 💡 How It Works  
+1️⃣ **Upload a CSV file** 📂  
+2️⃣ **Ask questions** about the data (e.g., "What is the total revenue?")  
+3️⃣ **LLaMA 3 processes the query** and retrieves relevant information  
+4️⃣ **Get answers instantly** in plain English!  
+
+---
+
+## 📌 To-Do List & Future Enhancements  
+- [ ] **Multi-file Support** 📂  
+- [ ] **Support for Excel & Google Sheets** 📊  
+- [ ] **More LLM Model Integrations** 🤖  
+- [ ] **Enhanced Data Visualizations** 📈  
+
+---
+
+## 🤝 Contributing  
+Contributions are welcome! Feel free to **fork the repo, open issues, or submit pull requests**.  
+
+---
+
+## 📜 License  
+This project is **MIT licensed** – free to use and modify.  
+
+---
+
+## 📢 Connect With Me!  
+💻 **GitHub:** [Sara Choudhary](https://github.com/saradune6)  
+📩 **LinkedIn:** [Sara Choudhary](https://www.linkedin.com/in/sara-choudhary-1203a724a/)  
+
+Would love to hear your thoughts—**star ⭐ the repo if you find it useful!** 🚀🎉
